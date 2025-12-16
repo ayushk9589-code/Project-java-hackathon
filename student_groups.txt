@@ -1,0 +1,15 @@
+===== GOOD STUDENTS (Sorted by AvgAtt, AvgMarks) =====
+ID: 2500030866 | AvgAtt: 100.0% | AvgMarks: 100.0
+ID: 2500030893 | AvgAtt: 93.125% | AvgMarks: 95.6
+
+===== AVERAGE STUDENTS (Sorted by AvgAtt, AvgMarks) =====
+ID: 2500030543 | AvgAtt: 70.625% | AvgMarks: 75.6
+ID: 2500031187 | AvgAtt: 70.0% | AvgMarks: 76.2
+ID: 2500030765 | AvgAtt: 66.875% | AvgMarks: 65.0
+ID: 2500030891 | AvgAtt: 64.375% | AvgMarks: 70.0
+ID: 2500031678 | AvgAtt: 61.25% | AvgMarks: 53.4
+
+===== BAD STUDENTS (Sorted by AvgAtt, AvgMarks) =====
+ID: 2500031555 | AvgAtt: 52.5% | AvgMarks: 80.4
+ID: 2500031145 | AvgAtt: 50.625% | AvgMarks: 54.8
+

@@ -1,0 +1,16 @@
+ID,Correlation(attendance_vs_marks_across_subjects)This project checks whether attendance and marks move together for each student (subject-wise).
+We calculate correlation r, which is always between -1 and +1.
+If r is close to +1: higher attendance usually means higher marks (strong positive link).
+If r is close to -1: higher attendance usually means lower marks (strong negative link).
+If r is near 0: attendance is not a reliable predictor of marks (weak/no linear link).
+Bottom line: r tells the direction and strength of the linear relationship—no guessing, only numbers.
+
+2500031187,-0.5748
+2500030891,-0.0112
+2500031145,-0.4541
+2500031678,-0.4293
+2500030765,0.1516
+2500030866,0.0000
+2500030893,0.4490
+2500031555,0.8674
+2500030543,0.2823
